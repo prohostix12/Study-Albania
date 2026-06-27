@@ -33,7 +33,7 @@
 .heroOverlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, rgba(13, 27, 62, 0.55) 0%, rgba(13, 27, 62, 0.35) 100%);
+  background: linear-gradient(135deg, rgba(13, 27, 62, 0.35) 0%, rgba(13, 27, 62, 0.15) 100%);
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
   z-index: 1;
