@@ -44,6 +44,8 @@ export default function HeroSection() {
         >
           <source src="/hero-video.mp4" type="video/mp4" />
         </video>
+        <div className={styles.heroOverlay} />
+        <div className={styles.heroGradient} />
         {/* Fallback gradient if video fails */}
         <div className={styles.heroBgFallback} />
       </div>
